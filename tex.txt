@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is abdurrohim
+=======
+my text in remote main repo
+>>>>>>> main
